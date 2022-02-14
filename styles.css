@@ -1,0 +1,43 @@
+
+body {
+  background-color: rgb(4, 4, 74);
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: fantasy;
+  font-size: 75px;
+}
+
+h2 {
+  color: white;
+  font-family: fantasy;
+  font-size: 50px;
+} 
+
+.button {
+  width: 200px;
+  height: 200px;
+  margin: 8px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.green {
+  background-color: green;
+  color: green;
+}
+.red {
+  background-color: red;
+  color: red;
+}
+.yellow {
+  background-color: yellow;
+  color: yellow;
+
+}
+.blue {
+  background-color: blue;
+  color: blue;
+}
